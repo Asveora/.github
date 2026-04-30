@@ -24,3 +24,12 @@ Rich Deployment (RD) is for those who want the full Asveora experience and inclu
 | ---------------------------------------------------------------------- | ----------------------------------- | :----------------------------------------: | :---------: |
 | [quick-deployment](https://github.com/asveora/quick-deployment)        | Lightweight single page deployment. | [@amzrosevca](https://github.com/amzrosevca) |     ✅      |
 | [rich-deployment](https://github.com/asveora/rich-deployment)          | Contains all of the components.     | [@amzrosevca](https://github.com/amzrosevca) |     ✅      |
+
+## Why would I bother using something like Asveora?
+
+Easiest life-long way to break away from centralized social media platforms and ecosystems such as FaceBook, X, Instagram, Reddit, Pinterest, Flickr, etc. Everything you build with Asveora is yours to keep, move, delete, etc. No one controls your presence, data, and where they belong but you. Not only will it greatly improve your tech literacy, but it will also enable you to build your own online digital networks, storefronts, portfolios, blogs, news feeds, fan pages, etc. You get to decide what domain registrars, protocols, email services, file hosting services, content management systems, etc. you use. All of your code, assets, and projects stay with you locally and you decide where you display them on the internet. Asveora was built to give people more freedom with how they exist online and highlight just how incredibly crucial tech literacy is. Many people are not tech literate in an age where many parts of their lives are directly reliant upon digital technology. This is dangerous and needs to change. Why? Because situations like the following are all too common:
+
+* Discord IDs Leaked (2025): https://www.bbc.com/news/articles/c8jmzd972leo
+* Meta & YouTube Lawsuit (2025): https://www.yahoo.com/news/articles/meta-youtube-lose-social-media-175400791.html
+* Meta Scam Ads Lawsuit (2026): https://mashable.com/article/meta-accused-of-profiting-from-scam-ads-in-class-action-lawsuit
+* Reddit API Protests (2023): https://apnews.com/article/reddit-blackout-api-91f60aaec2eaf7cd0e3751e2fb3dd653
