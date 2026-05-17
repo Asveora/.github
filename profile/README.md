@@ -2,7 +2,7 @@
 
 **Asveora** is an open source decentralized distributed ecosystem framework created by [AmzroSevca](https://www.amzrosevca.com/) that allows individuals to rapidly build out their own digital networks using the building blocks of the web (HTML, CSS, JS) in conjunction with their choice of communication protocols and platforms. They are empowered to build their own profiles, feeds, indexes, dashboards, and dictate how they work.
 
-<img alt="LandHub dashboard of the Asveora Social network featuring various buttons and panels for navigating the network." src="https://cdn.asveora.social/Content/Wikis/network-structure/Image-Select/Asveora_LHub_Preview_0001_CMS.jpg"/>
+<img alt="LandHub dashboard of the Asveora Social network featuring various buttons and panels for navigating the network." src="https://cdn.asveora.social/Content/Wikis/ecosystem-structure/Image-Select/Asveora_Ecosystem_0007_M4X.png"/>
 
 ## Organization Links
 
